@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+.main-box {
+  @apply w-64 h-40 flex items-center justify-center text-white;
+}
